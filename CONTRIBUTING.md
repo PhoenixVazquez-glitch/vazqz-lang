@@ -42,15 +42,15 @@ If you’d like to use the repository from source, you can either install from g
 To install via git:
 
 ```sh
-$ npm install git+ssh://git@github.com:PhoenixVazquez-glitch/vazqz-sdk..git
+$ npm install git+ssh://git@github.com:PhoenixVazquez-glitch/vazqz-lang.git
 ```
 
 Alternatively, to link a local copy of the repo:
 
 ```sh
 # Clone
-$ git clone https://www.github.com/PhoenixVazquez-glitch/vazqz-sdk.
-$ cd vazqz-sdk.
+$ git clone https://www.github.com/PhoenixVazquez-glitch/vazqz-lang
+$ cd vazqz-lang
 
 # With yarn
 $ yarn link
